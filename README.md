@@ -126,6 +126,9 @@ The Power BI dashboard provides:
 * Category-wise sales distribution
 * Regional profitability analysis
 * Top-performing products ranking
+## Dashboard Preview
+
+![Superstore Dashboard](powerbi/dashboard.png)
 
 ---
 
