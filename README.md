@@ -128,7 +128,7 @@ The Power BI dashboard provides:
 * Top-performing products ranking
 ## Dashboard Preview
 
-![Superstore Dashboard](powerbi/dashboard.png)
+![Superstore Dashboard](powerbi/Dashboard.png)
 
 ---
 
